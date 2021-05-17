@@ -1,1 +1,5 @@
-<ROOT/>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1621282783311" Description="Version A" Name="Prueba_GIT" PackageName="Prueba_GIT.spk" UserID="sasdemo" Version="0a49ae7">
+<ContainObj>SBIP://METASERVER/CWC/CMS/Jobs/FIX/Prueba_GIT(Job)</ContainObj>
+</ArchInfo>
+</ROOT>
