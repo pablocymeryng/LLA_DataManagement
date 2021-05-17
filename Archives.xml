@@ -5,4 +5,7 @@
 <ArchInfo Date="1621283832917" Description="" Name="Prueba_GIT_SIl" PackageName="Prueba_GIT_SIl.spk" UserID="sasdemo" Version="d076797">
 <ContainObj>SBIP://METASERVER/CWC/CMS/Jobs/FIX/Prueba_GIT(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1621284998509" Description="Version A" Name="Prueba Pablo" PackageName="Prueba Pablo.spk" UserID="sasdemo" Version="a77040f">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Prueba Pablo(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
